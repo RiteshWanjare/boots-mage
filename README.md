@@ -1,5 +1,5 @@
 # Bootstrap Magento
-### A Twitter Bootstrap 3.1, HTML5, Magento 1.8 Template
+### A Twitter Bootstrap 3.1, HTML5, Magento Template
 
 ---
 
